@@ -1,0 +1,9 @@
+{
+	"name": "df-ssg",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3663d4f2-2ea0-4186-9b08-c1f8a93f8f71",
+		"tenantId": "b98c87ef-db81-4520-bf55-c4e70ece2a7d"
+	}
+}
